@@ -1,7 +1,6 @@
 # 4-bit ALU Simulator in C++
 
-![Language](https://img.shields.io/badge/language-C++-blue)
-![Type](https://img.shields.io/badge/project-Digital%20Design-green)
+
 
 A 4-bit Arithmetic Logic Unit (ALU) simulator implemented in C++ using fundamental digital design principles.
 This project models core hardware components such as logic gates, adders, and a ripple carry architecture.
