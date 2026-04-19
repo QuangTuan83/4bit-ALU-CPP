@@ -8,7 +8,7 @@ This project models core hardware components such as logic gates, adders, and a 
 
 ---
 
-## 🚀 Features
+##  Features
 
 * 4-bit ADD and SUB (using 2's complement)
 * Bitwise AND / OR operations
@@ -18,7 +18,7 @@ This project models core hardware components such as logic gates, adders, and a 
 
 ---
 
-## ⚙️ Supported Operations
+##  Supported Operations
 
 * `ADD`
 * `SUB`
@@ -28,7 +28,7 @@ This project models core hardware components such as logic gates, adders, and a 
 
 ---
 
-## 🧠 Concepts Applied
+##  Concepts Applied
 
 * Logic Gates (AND, OR, XOR)
 * Half Adder & Full Adder
@@ -38,7 +38,7 @@ This project models core hardware components such as logic gates, adders, and a 
 
 ---
 
-## 🏗️ Architecture Overview
+##  Architecture Overview
 
 The ALU is built hierarchically:
 
@@ -82,7 +82,7 @@ g++ alu.cpp -o alu
 
 ---
 
-## 📌 Example Output
+##  Example Output
 
 ```text
 Enter A: 0101
@@ -93,7 +93,7 @@ Result: 1000
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 .
@@ -103,7 +103,7 @@ Result: 1000
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 This project is part of a learning path in:
 
@@ -111,11 +111,11 @@ This project is part of a learning path in:
 * Computer Architecture
 * Embedded Systems
 * Hardware-oriented programming
-* Foundational preparation for Digital Verification workflows
+* Foundational preparation for Digital Verification workflows ***
 
 ---
 
-## 👤 Author
+##  Author
 
 Huỳnh Quang Tuấn
 University of Science, VNU-HCM (HCMUS)
