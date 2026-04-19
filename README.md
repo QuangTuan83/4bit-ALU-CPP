@@ -97,8 +97,8 @@ Result: 1000
 
 ```
 .
-├── alu.cpp
-└── README.md
+├── README.md
+└── alu.cpp
 ```
 
 ---
